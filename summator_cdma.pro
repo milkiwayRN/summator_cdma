@@ -18,4 +18,4 @@ SOURCES += main.cpp \
 HEADERS  += \
     myserver.h
 
-FORMS    += clientwindow.ui
+FORMS    +=
